@@ -1,0 +1,11 @@
+#div1 {
+	position: relative;
+	top: 50%;
+	text-align: center;
+}
+
+#likes {
+	margin-top: 150px;
+	height: 80px;
+	width: 200px;
+}
